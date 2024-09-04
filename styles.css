@@ -1,0 +1,51 @@
+
+body{
+    color: gold;
+    background: black;
+    margin 0px
+    margin-bottom: 100px   
+  }
+
+header {
+    border-bottom:solid 3px darkred
+     padding: 20px
+     font-size 32px
+     color: rbg (42,122,228)
+}
+section {
+  padding: bottom 80px;
+  padding-top: 80px
+  display: flex;
+  justify-content: center;ss
+}
+div {
+
+}
+ img {
+  height: 200px;
+ }
+.categoria-videos{
+  display: flex;
+  gap: 10px 
+}
+
+.categoria-videos img {
+opacity: 0,5;
+
+}
+
+.categoria-videos img:hover {
+  opacity: 1,0 
+  border: 1px solid red; 
+}
+
+.categoria h2 {
+color:gold 
+
+}
+
+
+
+
+
+
